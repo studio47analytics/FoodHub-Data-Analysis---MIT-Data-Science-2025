@@ -49,8 +49,6 @@ This project explores and analyzes order and delivery data from FoodHub, a food 
  * cost_of_the_order, day_of_the_week, rating
  * food_preparation_time, delivery_time
 
-[FoodHub_order.csv](https://drive.google.com/file/d/1anS6z7QTGEEhrCo2j48NVhCTnmMZFX0P/view?usp=share_link)
-
 ### Key Insights & Questions
 
  * Data Structure: 1,898 rows × 9 columns, no missing values.
