@@ -4,8 +4,11 @@
 Data analysis of FoodHub’s NYC orders to uncover restaurant demand, customer trends, delivery times, and revenue insights. Includes EDA, operational metrics, and actionable business recommendations to help FoodHub improve customer experience and growth.
 
 **Author**: Austin McCollough
+
 **Program:** MIT Applied Data Science Program, Summer Cohort 2025
+
 **Date:** May 2025
+
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 **Full Code & Report:** [Google Drive - FoodHub Data Analysis](https://drive.google.com/drive/folders/1e7yDv_x9WkTem7zJ96lc_sg9OCl-cyx7?usp=share_link)
