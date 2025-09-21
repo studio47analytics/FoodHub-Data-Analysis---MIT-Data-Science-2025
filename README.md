@@ -106,3 +106,9 @@ Want to collaborate or have questions? Reach out via [GitHub] or email.
 GH: https://github.com/amccolloughdatascience
 
 E: amcco.datascience@gmail.com
+
+---
+
+**Prepared by Austin McCollough | studio.47 Analytics**  
+
+---
