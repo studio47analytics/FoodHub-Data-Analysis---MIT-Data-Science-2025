@@ -90,7 +90,7 @@ plt.show()
 * Optimize Delivery: Address long prep/delivery times to improve satisfaction.
 * Revenue Growth: Target high-value orders with special offers.
 
-### Full Report & Code
+## Full Report & Code
 
 **For a detailed analysis, code, and visualizations, view the full report:**  
 
