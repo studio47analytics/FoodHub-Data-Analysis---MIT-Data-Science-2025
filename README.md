@@ -3,7 +3,7 @@
 FoodHub Data Analysis
 
 Author: Austin McCollough  
-Full Code & Report: Google Drive Link
+Full Code & Report: [Google Drive - FoodHub Data Analysis](
 
 # Table of Contents
 
@@ -86,9 +86,12 @@ plt.show()
 
 For a detailed analysis, code, and visualizations, view the full report:  
 
-[FoodHub Data Analysis Project Folder]
+  [FoodHub Data Analysis Project Folder](https://drive.google.com/drive/folders/1e7yDv_x9WkTem7zJ96lc_sg9OCl-cyx7?usp=share_link)
 
-https://drive.google.com/drive/folders/1e7yDv_x9WkTem7zJ96lc_sg9OCl-cyx7?usp=share_link
+Access all original datasets and supporting resources for this project here:  
+
+  [Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1U3uqmgscmtUMRHzXVNDIFQca0S8FJUER?usp=share_link)
+
 
 
 Want to collaborate or have questions? Reach out via [GitHub] or email.
