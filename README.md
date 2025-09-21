@@ -1,4 +1,4 @@
-# FoodHub Data Analysis | MIT-Data-Science-2025
+# FoodHub Data Analysis | MIT Applied Data Science - AI & Machine Learning 2025
 
 FoodHub Data Analysis
 
